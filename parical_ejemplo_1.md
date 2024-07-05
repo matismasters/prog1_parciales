@@ -256,12 +256,11 @@ Crea una clase `Celebridad` con 5 propiedades, 2 métodos de instancia y un mét
 
 ## Ejercicio 98
 
-Crea 2 clases, una llamada `Factura` y otra llamada `ItemFactura`. La clase `ItemFactura` debe tener 2 propiedades, `nombre` y `precio`, y la clase `Factura` debe tener dos propiedades, `codigo`, que es un string, e `items` que es un array de instancias de `ItemFactura`. La clase `Factura` debe tener un método de instancia llamado `calcularTotal` que devuelve la suma de los precios de todos los items de la factura. La clase `Factura` debe tener métodos de instancia para agregar y quitar items de la factura. 
+Crea 2 clases, una llamada `Factura` y otra llamada `ItemFactura`. La clase `ItemFactura` debe tener 2 propiedades, `nombre` y `precio`, y la clase `Factura` debe tener dos propiedades, `codigo`, que es un string, e `items` que es un array de instancias de `ItemFactura`. La clase `Factura` debe tener un método de instancia llamado `calcularTotal` que devuelve la suma de los precios de todos los items de la factura. La clase `Factura` debe tener métodos de instancia para agregar y quitar items de la factura.
 
 ## Ejercicio 99
 
 Crea 2 clases, una llamada `CuentaBancaria` y otra llamada `Movimiento`. La clase `Movimiento` debe tener 2 propiedades, `fecha` y `monto`, y la clase `CuentaBancaria` debe tener dos propiedades, `numero`, que es un string, e `items` que es un array de instancias de `Movimiento`. La clase `CuentaBancaria` debe tener un método de instancia llamado `calcularSaldo` que devuelve la suma de los montos de todos los movimientos de la cuenta. La clase `CuentaBancaria` debe tener métodos de instancia para agregar y quitar movimientos de la cuenta. La clase `CuentaBancaria` debe tener un método de instancia llamado `calcularSaldoEnFecha` que recibe una fecha y devuelve el saldo de la cuenta en esa fecha.
-
 
 ## Ejercicio 100
 
